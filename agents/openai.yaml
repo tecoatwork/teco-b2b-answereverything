@@ -1,0 +1,6 @@
+interface:
+  display_name: "teco-b2b-answereverything"
+  short_description: "用图解和有来源的分析解释B2B采购、价值、异议与商机推进问题"
+  default_prompt: "Use $teco-b2b-answereverything to explain my B2B sales question visually, distinguish evidence from hypotheses, and cite the sources actually used."
+policy:
+  allow_implicit_invocation: true
