@@ -29,3 +29,17 @@ Copyright (c) 2026 tecoatwork
 | B19 | 社会心理学（第11版） | 说服与审慎判断 | [阅读卡](books/B19.md) |
 | B20 | 细节：如何轻松影响他人 | 共同下一步 | [阅读卡](books/B20.md) |
 | B21 | 绝对成交话术内训手册 | 采购目的与需求价值 | [阅读卡](books/B21.md) |
+
+## 2026-09-11 经典理论补充
+
+新增7份选读归纳，现共28份。只含原创机制说明、实物产品B2B应用、验证方法与边界，不附电子书。
+
+| ID | 新增资料 | 适用问题 | 参考卡 |
+|---|---|---|---|
+| B22 | 乌合之众 / The Crowd | 第二卷第三章第2节：Affirmation, Repetition, Contagion | [阅读卡](books/B22.md) |
+| B23 | 孙子兵法 / The Art of War | 第二篇 Waging War；第三篇 Attack by Stratagem，第18节 | [阅读卡](books/B23.md) |
+| B24 | 君主论 / The Prince | 第六章：新制度阻力；第二十三章：谄媚与进言 | [阅读卡](books/B24.md) |
+| B25 | 道德情操论 / The Theory of Moral Sentiments | 本EPUB第一部第一篇第一章：Of Sympathy；第二部第二篇第三章：justice与beneficence | [阅读卡](books/B25.md) |
+| B26 | 公众舆论 / Public Opinion | 第一章：拟态环境；第四章 Time and Attention；第六章 Stereotypes | [阅读卡](books/B26.md) |
+| B27 | 科学管理原理 / The Principles of Scientific Management | 第二章 The Principles of Scientific Management：四项管理职责 | [阅读卡](books/B27.md) |
+| B28 | 幻影公众 / The Phantom Public | 第十三章 The Principles of Public Opinion：角色与行动能力 | [阅读卡](books/B28.md) |
